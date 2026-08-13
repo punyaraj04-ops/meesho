@@ -32,7 +32,7 @@ The website focuses on practicing **HTML structure, CSS styling, positioning, la
 ```text
 Meesho-Website/
 │
-├── shop.html
+├── 1meesho.html
 └── images/
     ├── img1.png
     ├── return.png
